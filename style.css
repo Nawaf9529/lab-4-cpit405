@@ -1,0 +1,60 @@
+*{
+    text-align: center;
+    font: 1em Fantasy;
+}
+h2{
+    font-size: 2em;
+    background-color: rgb(199, 199, 96);
+}
+input{
+    width: 30%;
+    font: 1em Monospace;
+    text-align: left;
+    
+}
+.submit{
+    width: 30%;
+    font: 1em Fantasy;
+    text-align: center;
+    color: black;
+    background-color: rgb(199, 199, 96);
+    border: 0cm;
+    
+}
+.submit:hover{
+    width: 30%;
+    font: 1em Fantasy;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 0cm;
+    
+}
+textarea{
+    width: 30%;
+    text-align: left;
+}
+label{ 
+    margin-left: -260px;
+    color: white;
+}
+.wrd{
+    margin-left: -295px;
+}
+.wrd2{
+    margin-left: -285px;
+}
+.wrd3{
+    margin-left: -230px;
+}
+.wrd4{
+    margin-left: -270px;
+}
+body{
+    background-color: gray;
+}
+div{  
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: rgb(62, 62, 62);
+}

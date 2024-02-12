@@ -1,21 +1,25 @@
 body{
-    background-color: rgb(70, 70, 70);
+    background-color: rgb(31, 21, 21);
 }
 form{
     text-align: center;
 }
 h2{
-    font: 1em Fantasy;
-    font-size: 2em;
+    font: 2em Fantasy;
     text-align: center;
     background-color: rgb(199, 199, 96);
 }
 label{
+    width: 40%;
     color: white;
 }
 input{
     width: 40%;
     font: 1em Monospace;
+    text-align: center;
+}
+textarea{
+    width: 40%;
 }
 .comment{
     width: 20%;
@@ -35,7 +39,7 @@ input{
     text-align: center;
     color: white;
     background-color: black;
-    border: 0cm;
+    border: 1px solid;
     
 }
 

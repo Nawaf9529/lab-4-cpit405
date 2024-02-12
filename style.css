@@ -1,16 +1,24 @@
-*{
+body{
+    background-color: rgb(70, 70, 70);
+}
+form{
     text-align: center;
-    font: 1em Fantasy;
 }
 h2{
+    font: 1em Fantasy;
     font-size: 2em;
+    text-align: center;
     background-color: rgb(199, 199, 96);
 }
+label{
+    color: white;
+}
 input{
-    width: 30%;
+    width: 40%;
     font: 1em Monospace;
-    text-align: left;
-    
+}
+.comment{
+    width: 20%;
 }
 .submit{
     width: 30%;
@@ -30,31 +38,7 @@ input{
     border: 0cm;
     
 }
-textarea{
-    width: 30%;
-    text-align: left;
-}
-label{ 
-    margin-left: -260px;
-    color: white;
-}
-.wrd{
-    margin-left: -295px;
-}
-.wrd2{
-    margin-left: -285px;
-}
-.wrd3{
-    margin-left: -230px;
-}
-.wrd4{
-    margin-left: -270px;
-}
-body{
-    background-color: gray;
-}
-div{  
-    margin-left: 90px;
-    margin-right: 90px;
-    background-color: rgb(62, 62, 62);
-}
+
+
+
+
